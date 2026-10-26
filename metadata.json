@@ -1,0 +1,6 @@
+{
+  "name": "LP Teacher Support Portal",
+  "description": "Production-ready bilingual portal for Kerala Lower Primary (LP) teachers with secure Supabase storage downloads, teacher requests, and admin workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
